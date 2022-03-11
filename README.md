@@ -11,6 +11,8 @@ The M4 Motorway is a total 50.2-kilometer dual carriageway(two roads of which ea
 
 **M4 East:** starts at Haberfield (east), ends at Homebush (west). Opened on 13th of July in 2019, owned by WestConnex, and run by Sydney Motorway Corporation. According to the WestConnex's website,toll for full length will be capped at a maximum amount of $10.47 (2022).
 
+**M4–M5 Link** The M4-M5 Link Tunnels project cost $16.8 billion and employed 9000 workers. It will ideally relieve heavy truck traffic on surface-level highways, allowing industrial workers and truck-driving professionals to move between workplaces and homes more quickly, while their absence on the surface-level roads reduces traffic accidents.
+
 
 ## Total Daily Traffic Volume of M4 in 24 hours - Car & Truck Comparison
 ![car_truck_traffic](https://user-images.githubusercontent.com/62376291/157603907-34124333-7cb0-45fd-81be-6db353d95fdc.png)
