@@ -9,7 +9,7 @@ The M4 Motorway is a total 50.2-kilometer dual carriageway(two roads of which ea
 
 **M4 Western Motorway:** In each direction, the M4 Western Motorway is generally three or four lanes wide. During the years 1998 to 2000, it was extended to six lanes, however this did little to alleviate traffic congestion. 
 
-**M4 East: ** starts at Haberfield (east), ends at Homebush (west). Opened	13 July 2019, owned by WestConnex, and run by Sydney Motorway Corporation. According to the WestConnex's website,toll will be capped at a maximum amount of $10.47 (2022).
+**M4 East:** starts at Haberfield (east), ends at Homebush (west). Opened on 13th of July in 2019, owned by WestConnex, and run by Sydney Motorway Corporation. According to the WestConnex's website,toll will be capped at a maximum amount of $10.47(2022).
 
 
 ## Total Daily Traffic Volume of M4 in 24 hours - Car & Truck Comparison
