@@ -3,7 +3,7 @@
 <p align="center">
 !<img width="460" height="300" src="https://user-images.githubusercontent.com/62376291/157811248-837a4ff0-77e7-4ccd-a1e8-cfe0219d9c7d.png">
 </p>
-The M4 Motorway is a total 50.2-kilometer dual carriageway(two roads of which each has opposite direction) partially tolled motorway that runs through Sydney, New South Wales, Australia. It consists of M4 Western Motorway, M4 East, and M4–M5 Link (M4–M8 Link in the future). 
+The M4 Motorway is a 50.2-kilometer partially tolled dual carriageway (two roadways with opposite directions) that runs through Sydney, New South Wales, Australia. It comprises of the M4 Western Motorway, the M4 East, and the M4–M5 Link (in the future, the M4–M8 Link).
 
 ### Interesting facts
 
