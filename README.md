@@ -2,7 +2,7 @@
 
 ## Total Daily Traffic Volume of M4 in 24 hours - Car & Truck Comparison
 ![car_truck_traffic](https://user-images.githubusercontent.com/62376291/157603907-34124333-7cb0-45fd-81be-6db353d95fdc.png)
-
+This graph shows that 
 ## Total Daily Traffic Volume at all M4 Entry
 ![M4_ENTRY](https://user-images.githubusercontent.com/62376291/157603438-1566eff6-48bc-4934-a6a3-4057670ca66c.png)
 
@@ -11,3 +11,6 @@
 
 ## Total Daily Traffic Volume of M4 During Weekdays
 ![weekday_traffic](https://user-images.githubusercontent.com/62376291/157604383-dec877ff-0fd5-414e-af01-502791ec6b88.png)
+
+### Disclaimer! The following banner-like picture is not created by me, it was acquired @ https://en.wikipedia.org/wiki/M4_Motorway_(Sydney) it is intended to show where M4 is. 
+![Western_sydney_road_alignments](https://user-images.githubusercontent.com/62376291/157809679-2683ab7d-db29-4704-a207-efeea781bc1c.png)
