@@ -22,7 +22,7 @@ In October of 2021, this graph depicts M4's overall traffic volume over 31 days.
 Church St Entry has the most vehicles going through its gantry point of all the M4 entries. Mornings between 6:00 and 6:00 a.m. had the largest volume. Between 17:00 and 17:30 in the afternoon, it registered a large level of traffic. The Homebush Bay Dr (NB) Entry is the next busiest M4 entry.
 ## Total Daily Traffic Volume at all M4 Exit
 ![M4_EXIT](https://user-images.githubusercontent.com/62376291/157603440-68aa0417-c517-4d27-80e9-6ae4f3f27704.png)
-The results are more subtle here; while Church St Exit remains the busiest entry, traffic began to go up about 6:00 a.m., decreased slightly, and then picked up again between 7:00 and 07:30 a.m. From 14:00, the volume of traffic climbed even further, reaching a climax at 15:00. It became less crowded until 18:30.
+The results are more subtle here; while Church St Exit remains the busiest entry, traffic began to go up about 6:00 a.m., decreased slightly, and then picked up again between 7:00 and 07:30. From 14:00, the volume of traffic climbed even further, reaching a climax at 15:00. It became less crowded until 18:30.
 ## Total Daily Traffic Volume of M4 During Weekdays
 ![weekday_traffic](https://user-images.githubusercontent.com/62376291/157604383-dec877ff-0fd5-414e-af01-502791ec6b88.png)
 
