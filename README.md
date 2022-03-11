@@ -2,7 +2,8 @@
 
 ## Total Daily Traffic Volume of M4 in 24 hours - Car & Truck Comparison
 ![car_truck_traffic](https://user-images.githubusercontent.com/62376291/157603907-34124333-7cb0-45fd-81be-6db353d95fdc.png)
-This graph shows that 
+This graph shows the total traffic volume of 31 days in October,2021. We could see that the traffic peaked between 06:00 and 06:15; the afternoon peak was between 17:00 and 17:15
+
 ## Total Daily Traffic Volume at all M4 Entry
 ![M4_ENTRY](https://user-images.githubusercontent.com/62376291/157603438-1566eff6-48bc-4934-a6a3-4057670ca66c.png)
 
