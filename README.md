@@ -3,7 +3,10 @@
 <p align="center">
 !<img width="460" height="300" src="https://user-images.githubusercontent.com/62376291/157811248-837a4ff0-77e7-4ccd-a1e8-cfe0219d9c7d.png">
 </p>
-The M4 Freeway is a 50.2-kilometer dual carriageway partially tolled motorway that runs through Sydney, New South Wales, Australia. The M4 runs parallel/below ground to the Great Western Highway and Parramatta Road, and is part of the larger A4 and M4 route designation (A44).
+The M4 Motorway is a total 50.2-kilometer dual carriageway(two roads of which each has opposite direction) partially tolled motorway that runs through Sydney, New South Wales, Australia. It consists of M4 Western Motorway, M4 East, and M4–M5 Link (M4–M8 Link in the future). 
+### Interesting facts
+**M4 Western Motorway:** In each direction, the M4 Western Motorway is generally three or four lanes wide. During the years 1998 to 2000, it was extended to six lanes, however this did little to alleviate traffic congestion. 
+**M4 East ** starts at Haberfield (east), ends at Homebush (west). Opened	13 July 2019, owned by WestConnex, and run by Sydney Motorway Corporation. According to the WestConnex's website,toll will be capped at a maximum amount of $10.47 (2022).
 
 
 ## Total Daily Traffic Volume of M4 in 24 hours - Car & Truck Comparison
