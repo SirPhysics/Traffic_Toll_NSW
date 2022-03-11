@@ -19,7 +19,7 @@ The M4 Motorway is a 50.2-kilometer partially tolled dual carriageway (two roadw
 In October of 2021, this graph depicts M4's overall traffic volume over 31 days. The morning peak was between 6:00 and 06:15, and the afternoon peak was between 17:00 and 17:15. Another intriguing fact is that during most of the day, car traffic was at least 5 times more than truck traffic.
 ## Total Daily Traffic Volume at all M4 Entry
 ![M4_ENTRY](https://user-images.githubusercontent.com/62376291/157603438-1566eff6-48bc-4934-a6a3-4057670ca66c.png)
-Of all M4 entries, Church St Entry recorded the highest amounts of vehicles passing through its gantry point. The highest volume was found between 06:00 and 06:30 in the mornings. In the afternoon, it recorded a high traffic volume between 17:00 and 17:30. The next busiest M4 Entry would be the Homebush Bay Dr (NB) Entry. 
+Church St Entry has the most vehicles going through its gantry point of all the M4 entries. Mornings between 6:00 and 6:00 a.m. had the largest volume. Between 17:00 and 17:30 in the afternoon, it registered a large level of traffic. The Homebush Bay Dr (NB) Entry is the next busiest M4 entry.
 ## Total Daily Traffic Volume at all M4 Exit
 ![M4_EXIT](https://user-images.githubusercontent.com/62376291/157603440-68aa0417-c517-4d27-80e9-6ae4f3f27704.png)
 
