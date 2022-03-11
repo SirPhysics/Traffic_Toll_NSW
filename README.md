@@ -19,5 +19,5 @@ Of all M4 entries, Church St Entry recorded the highest amounts of vehicles pass
 ## Total Daily Traffic Volume of M4 During Weekdays
 ![weekday_traffic](https://user-images.githubusercontent.com/62376291/157604383-dec877ff-0fd5-414e-af01-502791ec6b88.png)
 
-### Disclaimer! The following banner-like picture is not created by me, it was acquired @ https://en.wikipedia.org/wiki/M4_Motorway_(Sydney) it is intended to show where M4 is. 
+## Disclaimer! The following banner-like picture is not created by me, it was acquired @ https://en.wikipedia.org/wiki/M4_Motorway_(Sydney) it is intended to show where M4 is. 
 ![Western_sydney_road_alignments](https://user-images.githubusercontent.com/62376291/157809679-2683ab7d-db29-4704-a207-efeea781bc1c.png)
