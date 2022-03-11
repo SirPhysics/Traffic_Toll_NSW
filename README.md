@@ -25,7 +25,7 @@ Church St Entry has the most vehicles going through its gantry point of all the 
 The results are more subtle here; while Church St Exit remains the busiest entry, traffic began to go up about 6:00 a.m., decreased slightly, and then picked up again between 7:00 and 07:30. From 14:00, the volume of traffic climbed even further, reaching a climax at 15:00. It became less crowded until 18:30.
 ## Total Daily Traffic Volume of M4 During Weekdays
 ![weekday_traffic](https://user-images.githubusercontent.com/62376291/157604383-dec877ff-0fd5-414e-af01-502791ec6b88.png)
-
+Sunday, not Monday, is denoted by the number 1! Saturday is represented by the number 7. We know that an usual Sunday will have the least traffic because a huge number of people do not have to return to work, and the majority of people will simply stay in their neighbourhoods. The busiest days of the week were, as expected, Thursday and Friday. But, what do you think causes Thursday and Friday traffic to be higher than other weekdays such as Monday, Tuesday, and Wednesday?
 ## Disclaimer: 
 The following banner-like image was obtained from https://en.wikipedia.org/wiki/M4 Motorway (Sydney) and is intended to demonstrate where M4 is located.
 ![Western_sydney_road_alignments](https://user-images.githubusercontent.com/62376291/157809679-2683ab7d-db29-4704-a207-efeea781bc1c.png)
