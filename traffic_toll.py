@@ -1,6 +1,6 @@
 import pandas as pd
 
-traffic_df = pd.read_csv("C:\\Users\kcho4\OneDrive\Desktop\Project _Python\Traffic Project\M4_trips_OCT_2021.csv",sep=';')
+traffic_df = pd.read_csv("data.csv",sep=';')
 traffic_df.dtypes
 traffic_1_df = pd.DataFrame(traffic_df, columns = ['Date','Weekday','IntervalStart','IntervalEnd',
                                                    'VehicleClass','StartGantryDirection','StartGantryLocation',
