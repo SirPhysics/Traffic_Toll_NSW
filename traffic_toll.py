@@ -1,4 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
 import pandas as pd
+import seaborn as sns
 
 traffic_df = pd.read_csv("data.csv",sep=';')
 traffic_df.dtypes
@@ -8,9 +11,6 @@ traffic_1_df = pd.DataFrame(traffic_df, columns = ['Date','Weekday','IntervalSta
                                                   'EndGantryLocation','Lat_End','Long_End','EndGantryType','TotalVolume'])
 traffic_1_df.head()
 
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 sns.set_theme(style='darkgrid')
 
 plt.figure(figsize=(32,12))
