@@ -26,7 +26,7 @@ def visualise_traffic_data(data_file):
     plt.xlabel('Timeline')
     plt.ylabel("M4's Traffic Volume")
     
-    # create a heatmap to visualize traffic volume by entry location
+    # create a heatmap to visualise traffic volume by entry location
     Start_loc = traffic_df.pivot_table(index='StartGantryLocation', columns='IntervalStart', values='TotalVolume')
     plt.figure(figsize=(20,6))
     sns.set_context('paper', font_scale=1.2)
@@ -35,7 +35,7 @@ def visualise_traffic_data(data_file):
     plt.xlabel('Time')
     plt.ylabel('M4 Entries')
     
-    # create a heatmap to visualize traffic volume by exit location
+    # create a heatmap to visualise traffic volume by exit location
     End_loc = traffic_df.pivot_table(index='EndGantryLocation', columns='IntervalStart', values='TotalVolume')
     plt.figure(figsize=(20,6))
     sns.set_context('paper', font_scale=1.2)
@@ -44,7 +44,7 @@ def visualise_traffic_data(data_file):
     plt.xlabel('Time')
     plt.ylabel('M4 Exits')
     
-    # create a line plot to visualize traffic volume by day of the week
+    # create a line plot to visualise traffic volume by day of the week
     plt.figure(figsize=(20,6))
     sns.set_context('paper', font_scale=1.2)
     sns.lineplot(data=traffic_df, x='Weekday', y='TotalVolume')
@@ -69,6 +69,6 @@ def visualise_traffic_data(data_file):
     print('Number of observations for each gantry type:')
     print(gantrytype_df)
 
-# use the function to visualize the traffic data
+# use the function to visualise the traffic data
 visualise_traffic_data('data.csv')
 
