@@ -4,7 +4,7 @@ import pandas as pd
 import seaborn as sns
 
 def visualise_traffic_data(data_file):
-    # read in the data file
+    # read in the data file. Remember to edit the agruments below, e.g., path of your csv file.
     traffic_df = pd.read_csv(data_file, sep=';')
 
     # select only the relevant columns
